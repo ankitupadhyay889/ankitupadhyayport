@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Redressed&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Redressed", cursive;
+  /* background-color: rgb(177, 187, 187); */
+}
+
+.kp {
+  font-size: 50px;
+}
+
+.lpi p {
+  font-size: 30px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: rgb(22, 22, 22);
+  background-color: aliceblue;
+  text-align: center;
+}
+
+.ab{
+  font-size: 25px;
+}
+
+.ab h1{
+  font-size: 30px;
+}
+
+.poa p {
+  font-size: 25px;
+}
+
+.poa{
+  font-size: 20px;
+}
+
+.cont .on{
+  font-size: 25px;
+}
+
+.page{
+  margin-top: 150px;
+}
+
+.page .pl h1{
+  font-size: 100px;
+}
+
+.page .pl p{
+  font-size: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
